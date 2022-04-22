@@ -1,2 +1,4 @@
-#Haiku Generator in Python
+
 import random
+
+print("This is a Haiku Generator")
